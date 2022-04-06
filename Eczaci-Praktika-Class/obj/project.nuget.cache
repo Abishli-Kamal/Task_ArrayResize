@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zj8wU1/tDAYTOxxeBC1Bb6k5UljtKpMp32GciJ6zXgFR5QuvZ5W4BDzwGkCkqrqKaF8UYxVC4L5dCGuM608dpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Task_Pharmacy\\Eczaci-Praktika-Class\\Eczaci-Praktika-Class\\Eczaci-Praktika-Class.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
